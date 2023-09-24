@@ -6,6 +6,32 @@
 
 This project is an Uber Clone app built with React Native. The goal is to provide a functional and clean UI similar to Uber, including ride selection and real-time navigation. Thanks to [YouTube Tutorial](https://www.youtube.com/watch?v=bvn_HYpix6s&list=PLf16UKl7nR5AjcrYOe1niifJSAls3spDk) for inspiring me.
 
+## Google APIs Used
+
+This project utilizes the following Google APIs:
+
+### Google Maps JavaScript API
+
+- Used for displaying maps and handling map events.
+
+### Google Places API
+
+- Powers the location search and autocomplete functionality.
+
+### Google Directions API
+
+- Used for getting driving directions and route information.
+
+### Google Distance Matrix API
+
+- Provides travel distance and time between multiple locations.
+
+### Google Geocoding API
+
+- Converts between addresses and geographic coordinates (latitude & longitude).
+
+Please make sure to get your own API keys for these services from the [Google Cloud Console](https://console.cloud.google.com/).
+
 ## Features
 
 - Real-time navigation
