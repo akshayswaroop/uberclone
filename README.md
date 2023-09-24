@@ -1,6 +1,6 @@
 # Uber Clone App
 
-![Uber Clone App Screenshot](Screenshot.png)
+<img src="Screenshot.png" width="300" alt="Uber Clone App Screenshot">
 
 ## Overview
 
