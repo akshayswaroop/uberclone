@@ -1,11 +1,12 @@
 # uberclone
+
 Uber Clone App
 
-
+![Alt text](<Screenshot 2023-09-24 at 8.47.34 PM.png>)
 
 Overview
-This project is an Uber Clone app built with React Native. 
-The goal is to provide a functional and clean UI similar to Uber, including ride selection and real-time navigation. 
+This project is an Uber Clone app built with React Native.
+The goal is to provide a functional and clean UI similar to Uber, including ride selection and real-time navigation.
 Thanks to https://www.youtube.com/watch?v=bvn_HYpix6s&list=PLf16UKl7nR5AjcrYOe1niifJSAls3spDk for inspiring me.
 
 Features
@@ -40,6 +41,3 @@ npx react-native run-ios // For iOS
 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 Feel free to add or remove sections as you see fit for your project's needs.
-
-
-
