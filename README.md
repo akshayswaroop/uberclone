@@ -1,6 +1,6 @@
 # Uber Clone App
 
-![Uber Clone App Screenshot](Screenshot-2023-09-24-at-8.47.34-PM.png)
+![Uber Clone App Screenshot](Screenshot.png)
 
 ## Overview
 
