@@ -6,6 +6,15 @@
 
 This project is an Uber Clone app built with React Native. The goal is to provide a functional and clean UI similar to Uber, including ride selection and real-time navigation. Thanks to [YouTube Tutorial](https://www.youtube.com/watch?v=bvn_HYpix6s&list=PLf16UKl7nR5AjcrYOe1niifJSAls3spDk) for inspiring me.
 
+## Built With Expo
+
+This project uses [Expo](https://expo.dev/), a framework and platform for React Native. It enables faster development and includes a variety of libraries and tools.
+
+To run the Expo project locally:
+
+1. Install the Expo CLI: `npm install -g expo-cli`
+2. In your project directory, run: `expo start`
+
 ## Google APIs Used
 
 This project utilizes the following Google APIs:
